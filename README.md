@@ -1,4 +1,4 @@
 ### `npm install`
 ### `npm start`
-### `npm npm run start:api`
+### `npm run start:api`
 
